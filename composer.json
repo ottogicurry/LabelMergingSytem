@@ -1,0 +1,7 @@
+{
+    "require": {
+        "setasign/fpdi-fpdf": "1.6.1",
+        "setasign/fpdi": "1.6.1",
+        "smalot/pdfparser": "*"
+    }
+}
